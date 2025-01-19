@@ -2,7 +2,7 @@
 
 FUNCTION main
     PRINT "Enter the message to print:"
-    SET message to "Hello, World!"
+    SET message to "Welcome to Java"
 
     PRINT "Enter the number of times to repeat message:"
     SET repeat TO 5
