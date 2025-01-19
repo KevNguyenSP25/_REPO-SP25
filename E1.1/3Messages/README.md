@@ -1,11 +1,7 @@
 ## Pseudocode
 
-Write a simple program that prints the three specified messages:
-
-("Welcome to Java")
-("Welcome to Computer Science")
-("Programming is fun")
-
-## Run Code to Achieve Correct Output
-
-Complete
+FUNCTION MAIN
+    PRINT "Hello, World!"
+    PRINT "Welcome to Computer Science"
+    PRINT "Programming is fun"
+END FUNCTION
