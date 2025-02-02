@@ -2,8 +2,6 @@
 
 BEGIN
 
-    // Start the program and welcome the user
-
     REPEAT
         // Prompt the user for subtotal input
         PRINT "Enter subtotal: "
