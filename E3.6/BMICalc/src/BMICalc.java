@@ -1,10 +1,8 @@
 import java.util.Scanner;
 
 public class BMICalc {
-
     public static void main(String[] args) {
-        try (
-                Scanner scanner = new Scanner(System.in)) {
+        try (Scanner scanner = new Scanner(System.in)) {
             System.out.print("Enter your weight in pounds: ");
             double weight = scanner.nextDouble();
             System.out.print("Enter your height (feet): ");
